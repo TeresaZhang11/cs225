@@ -5,6 +5,7 @@
 #include "cs225/PNG.h"
 #include "cs225/HSLAPixel.h"
 
+
 using namespace cs225;
 
 static void checkStickerPlacement(const Image& sticker, const Image& sheet, const int& xOffset, const int& yOffset) {

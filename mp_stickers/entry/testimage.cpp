@@ -1,6 +1,6 @@
 #include "Image.h"
 
-#include <iostream>
+using namespace cs225;
 
 int main() {
   Image alma;
